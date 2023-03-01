@@ -147,9 +147,7 @@ function isPlural(text){
   console.log(wumbo("MEET ME IN WARSAW"))
   console.log(wumbo("WUMBOLOGY"))
 
-  function funtionName(){
-    
-  }
+  
   
 
 
