@@ -146,6 +146,10 @@ function isPlural(text){
   console.log(wumbo("I LOVE MAKING CHALLENGES"))
   console.log(wumbo("MEET ME IN WARSAW"))
   console.log(wumbo("WUMBOLOGY"))
+
+  function funtionName(){
+    
+  }
   
 
 
